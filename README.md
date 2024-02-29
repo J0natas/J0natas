@@ -23,7 +23,7 @@
 📚 Estudante e desenvolvedor, comecei a ~~programar~~ copiar e colar código aos ~11 anos,
 criando os [meus próprios] mods de minecraft mcpe 1.13/1.14 quem pegou essa época viveu anos de ouro.
 
-🧑🏻‍💻 Iniciei meus estudos a sério na programação em 2023, aos 19, tive o meu primeiro emprego como dev games.  
+🤗📚 Iniciei meus estudos a sério na programação em 2023, aos 19, tive o meu primeiro emprego como dev games.  
 
 📙 Estou escrevendo 📚 e em breve serão publicados!
 
