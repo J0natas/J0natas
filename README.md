@@ -4,9 +4,6 @@
 
 ### Who am I?
 
-<details open>
-<summary><small>EN-US</small></summary>
-
 🧭 Student...
 
 💻 4+ years in game, modding and debugs.
